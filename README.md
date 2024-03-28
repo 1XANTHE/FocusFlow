@@ -16,4 +16,4 @@ The Pomodoro Technique is a time management method that uses a timer to break do
 - Tkinter (usually included in standard Python installations)
 - Plyer (for system notifications)
 
-Enjoy studying :D
+Enjoy studying   :D
